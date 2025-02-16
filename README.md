@@ -14,7 +14,7 @@
 - Server Messages
 - Server Members
 ```
-#How to do
+# How to do
 Go on [replit](https://replit.com/~), login and create a new project.
 In file main.py paste the code.
 Go in Secret and add new env: `DISCORD_TOKEN` = Your account Token.
