@@ -21,7 +21,7 @@
 # How to do
 
 * Go on [replit](https://replit.com/~), login and create a new project. 
-* In file main.py paste the code. 
+* In file main.py paste the [code](https://github.com/psychothegoat/discord-cloner/blob/main/main.py). 
 * Go in Secret and add new env: `DISCORD_TOKEN` = Your account Token. 
 
 ![Token](https://github.com/psychothegoat/discord-cloner/blob/main/image.png)
