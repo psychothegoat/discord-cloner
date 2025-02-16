@@ -18,4 +18,4 @@
 Go on [replit](https://replit.com/~), login and create a new project.
 In file main.py paste the code.
 Go in Secret and add new env: `DISCORD_TOKEN` = Your account Token.
-image.png
+img src="https://github.com/psychothegoat/discord-cloner/blob/main/image.png?raw=true" alt="Discordclone"
